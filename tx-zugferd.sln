@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tx-zugferd", "tx-zugferd.csproj", "{B1F458A1-F683-42E1-9AD8-F5F388A4E195}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tx-zugferd", "tx-zugferd\tx-zugferd.csproj", "{B1F458A1-F683-42E1-9AD8-F5F388A4E195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TXTextControl.DocumentServer.PDF.Zugferd", "..\TXTextControl.DocumentServer.PDF.Zugferd\TXTextControl.DocumentServer.PDF.Zugferd.csproj", "{46E36B12-306B-45E1-8609-41BA31E42C8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TXTextControl.DocumentServer.PDF.Zugferd", "TXTextControl.DocumentServer.PDF.Zugferd\TXTextControl.DocumentServer.PDF.Zugferd.csproj", "{46E36B12-306B-45E1-8609-41BA31E42C8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A07D788A-884D-4A84-B871-9EC6D8482ED2}
+		SolutionGuid = {F4D09A03-755C-40C6-BE00-B82275401DF6}
 	EndGlobalSection
 EndGlobal
